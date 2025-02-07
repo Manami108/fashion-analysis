@@ -56,7 +56,7 @@ To use the system, follow these steps:
 ## Directory Structure
 
 ## Citation 
-If you use this work, please cite:
+If you use this work, please cite: <br>
 @software{yano2025fashion,
   author    = {Manami Yano},
   title     = {Fashion Image Analysis - Integrating Classification and Segmentation Models},
