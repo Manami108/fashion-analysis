@@ -55,3 +55,15 @@ To use the system, follow these steps:
 
 ## Directory Structure
 
+## Citation 
+If you use this work, please cite:
+@software{yano2025fashion,
+  author    = {Manami Yano},
+  title     = {Fashion Image Analysis - Integrating Classification and Segmentation Models},
+  year      = {2025},
+  version   = {1.0.0},
+  doi       = {10.5281/zenodo.1234},
+  url       = {https://github.com/Manami108/Fashion_Analysis},
+  publisher = {GitHub},
+}
+
