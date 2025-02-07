@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -25,6 +26,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+# Ignore Datasets folder
+Datasets/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -169,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+Datasets/
+>>>>>>> 6357c63 (Initial commit)
