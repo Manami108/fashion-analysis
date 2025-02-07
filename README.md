@@ -22,14 +22,14 @@ The following datasets were used:
 - FashionStyle14: Contains 13K images with 14 Japanese fashion styles.
 
 ## Dataset References
-- DeepFashion2:
+- DeepFashion2: <br>
   @article{DeepFashion2,
   author = {Yuying Ge and Ruimao Zhang and Lingyun Wu and Xiaogang Wang and Xiaoou Tang and Ping Luo},
   title={A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images},
   journal={CVPR},
   year={2019}
   }
-- FashionStyle14:
+- FashionStyle14: <br>
   @InProceedings{TakagiICCVW2017,
   author    = {Moeko Takagi and Edgar Simo-Serra and Satoshi Iizuka and Hiroshi Ishikawa},
   title     = {{What Makes a Style: Experimental Analysis of Fashion Prediction}},
