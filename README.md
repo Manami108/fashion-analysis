@@ -1,4 +1,4 @@
-# Fashion Image Analysis
+# Fashion Image Analysis and Classification
 ## Introduction
 Due to the rapid development of e-commerce, particularly in the fashion industry, manual analysis of fashion images, clothing classification, and fashion style prediction have become difficult over time. To address these challenges, this project integrates classification and segmentation models using deep learning. <br>
 
