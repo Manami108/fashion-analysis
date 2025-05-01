@@ -86,4 +86,4 @@ If you use this work, please cite: <br>
   }
 
 ---
-*Note: For more details please refer to the full report [(PDF included in this repository)](https://github.com/Manami108/Fashion_Analysis/blob/main/fashionAnalysis.pdf). *
+*Note: For more details please refer to the full report [(PDF included in this repository)](https://github.com/Manami108/Fashion_Analysis/blob/main/fashionAnalysis.pdf).*
