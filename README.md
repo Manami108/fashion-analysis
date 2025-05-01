@@ -27,7 +27,7 @@ After training and evaluation, the following models were selected as the best pe
 - Pipeline 2: ResNet-50 achieved 73.16% accuracy.
 - Final system: Integrated the best models for real-world prediction.
 
-For a detailed breakdown of accuracy, loss graphs, and confusion matrices, refer to the full report (PDF included in this repository).
+For a detailed breakdown of accuracy, loss graphs, and confusion matrices, refer to the full report [(PDF included in this repository)](https://github.com/Manami108/Fashion_Analysis/blob/main/fashionAnalysis.pdf).
 
 ## Usage
 To use the system, follow these steps:
